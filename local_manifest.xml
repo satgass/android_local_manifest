@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="external/stlport" name="android_external_stlport" remote="pac" revision="pac-6.0" />
+<project path="device/qcom/common" name="android_device_qcom_common" remote="ss" revision="pac-6.0" />
+</manifest>
